@@ -1,6 +1,13 @@
 # podcastr
-Projeto desenvolvido durante a 5ª edição do evento NLW
+Project developed during the 5th edition of the NLW event
 
 
+## Available Scripts
 
-## Some
+To run :
+
+### `yarn start`
+
+To run in dev mode :
+
+### `yarn dev`
