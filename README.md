@@ -6,6 +6,8 @@ Project developed during the 5th edition of the NLW event
 
 To run :
 
+### `yarn build`
+
 ### `yarn start`
 
 To run in dev mode :
