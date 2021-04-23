@@ -1,8 +1,11 @@
 # podcastr
 Project developed during the 5th edition of the NLW event
 
-
 ## Available Scripts
+
+To install dependencies
+
+### `yarn`
 
 To run :
 
